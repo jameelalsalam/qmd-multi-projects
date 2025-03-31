@@ -14,7 +14,7 @@ here::here()
 
 
 ```{r}
-targets::tar_load(data, store = here::here("_targets"))
+targets::tar_load(data)
 
 head(data)
 ```
