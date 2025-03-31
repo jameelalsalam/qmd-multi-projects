@@ -7,11 +7,6 @@ format: html
 getwd()
 ```
 
-```{r}
-here::here()
-```
-
-
 
 ```{r}
 targets::tar_load(data)
