@@ -1,6 +1,6 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 data|stem|f76d32fe0e8d4361|b968237b3160b75e|2c530c1562a7fbd1|33550471||t20178.8369234945s|s2917b|2917|rds|local|vector|||0.062||
 all_qmd|stem|beee0713f43f0a50|97d5c9674c7082a7|c53e8cfcb1d9d841|1747556735|../output*book-1/book-1-intro.qmd*_quarto.yml|t20178.841847579s|s864332b|864332|file|local|vector|||17.359||
-.Random.seed|object|6d60a3497edccccd
-book1|stem|ae34cca69c7d2463|47ac9d76eea33497|c53e8cfcb1d9d841|653344794|output*book-1/book-1-intro.qmd*book-1/_quarto.yml|t20178.8580924435s|s886948b|886948|file|local|vector|||14||
-book2|stem|26039e6144dcb3d4|0f7e798b3afa90ae|c53e8cfcb1d9d841|2105103349|output*book-2/book-2-intro.qmd*book-2/_quarto.yml|t20178.858270439s|s1731378b|1731378|file|local|vector|||14.953||
+.Random.seed|object|3f07cde376a50e46
+book1|stem|edda3421e190ca6b|74f7d43e3a33c181|c53e8cfcb1d9d841|653344794|output*book-1/book-1-intro.qmd*book-1/_quarto.yml|t20178.8636486302s|s1731983b|1731983|file|local|vector|||14.688||
+book2|stem|0c638367e149d6cf|5cfbfa68b2cdfbf0|c53e8cfcb1d9d841|2105103349|output*book-2/book-2-intro.qmd*book-2/_quarto.yml|t20178.8639297241s|s1731983b|1731983|file|local|vector|||23.313||

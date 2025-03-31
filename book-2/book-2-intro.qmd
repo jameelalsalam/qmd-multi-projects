@@ -9,6 +9,11 @@ getwd()
 
 
 ```{r}
+here::here()
+```
+
+
+```{r}
 targets::tar_load(data, store = here::here("_targets"))
 
 head(data)
