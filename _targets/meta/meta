@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+data|stem|f76d32fe0e8d4361|b968237b3160b75e|2c530c1562a7fbd1|33550471||t20178.8369234945s|s2917b|2917|rds|local|vector|||0.062||
+.Random.seed|object|00043f7e6c00b1cb
+all_qmd|stem|beee0713f43f0a50|97d5c9674c7082a7|c53e8cfcb1d9d841|1747556735|../output*book-1/book-1-intro.qmd*_quarto.yml|t20178.8391717798s|s864332b|864332|file|local|vector|||18.844||

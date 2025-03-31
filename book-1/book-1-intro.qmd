@@ -1,0 +1,14 @@
+---
+title: "book-1-intro"
+format: html
+---
+
+```{r}
+getwd()
+```
+
+
+```{r}
+targets::tar_load(data)
+```
+
